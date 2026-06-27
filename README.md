@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 **3. Add a sound file**
 
-Download any free `.mp3` from [freesound.org](https://freesound.org), rename it to `alarm_sound.mp3`, and place it in the project folder.
+Download any free `.mp3`, rename it to `alarm_sound.mp3`, and place it in the project folder.
 
 **4. Run**
 ```bash
@@ -95,5 +95,3 @@ python alarm_clock.py
 - [ ] System tray minimization
 
 ---
-
-*Part of my Python mini-projects series — [PranayX03](https://github.com/PranayX03)*
